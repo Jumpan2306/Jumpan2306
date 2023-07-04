@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jumpan2306
-- 👀 I’m living in Kunshan,China
+- 👀 I’m living in Shanghai,China
 - 🌱 I’m currently learning Embedded software development
 
 <!---
